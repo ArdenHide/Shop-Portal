@@ -6029,11 +6029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\MusicPortal\\MusicPortal.csproj",
+      "projectUniqueName": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\Shop-Portal\\MusicPortal.csproj",
       "projectName": "MusicPortal",
-      "projectPath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\MusicPortal\\MusicPortal.csproj",
+      "projectPath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\Shop-Portal\\MusicPortal.csproj",
       "packagesPath": "C:\\Users\\Arden Hide\\.nuget\\packages\\",
-      "outputPath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\MusicPortal\\obj\\",
+      "outputPath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\Shop-Portal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

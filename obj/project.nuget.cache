@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWsRwsvoBZBRY5Z2UtKeIVNr8Wki9TC/X/4/hpu9pwbSMo6DyUXBVXVNXFgt7E2ShPWTWfe9o+miJ4KICgkXRQ==",
+  "dgSpecHash": "PxYtniSUTXwJlQXReRhAkxUlwztmqMYkYg+o9nsFz3j38WNmMgUiOUuRG4Z6stDvvrmJOQJYPQhDv7DNavrEkQ==",
   "success": true,
-  "projectFilePath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\MusicPortal\\MusicPortal.csproj",
+  "projectFilePath": "F:\\01.My Project\\Web\\ASP.NET\\01.Музыкальный портал\\Shop-Portal\\MusicPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arden Hide\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\Arden Hide\\.nuget\\packages\\bootstrap\\4.5.3\\bootstrap.4.5.3.nupkg.sha512",
